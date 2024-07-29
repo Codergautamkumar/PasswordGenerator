@@ -1,0 +1,33 @@
+.Compt{
+    text-align: center;
+    margin: 240px;
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+h1{
+    color: aqua;
+}
+
+.ComptOneIn{
+    padding: 5px;
+    width: 250px;
+}
+
+.ComptOneInt{
+    padding: 5px;
+    width: 60px;
+    border-radius: 0.02rem;
+}
+
+.ComptTwo{
+    display: flex;
+    margin-left: 260px;
+    margin-top: 10px;
+    gap: 5px;
+}
+
+.ComptTwo label{
+    color: aqua;
+    gap: 10px;
+}
